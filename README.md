@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhogte&label=Views&color=blue&style=plastic" alt="Aditya Dattatray Bhogte - Github Profile views" /> </p>
 
 ### Hey There! I'm [Aditya Dattatray Bhogte](https://aditya-bhogte.netlify.app/) 👋
-Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites.
+Software Engineer learning about software, programming and technologies since last 5+ years. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites. Looking for a Full-Time opportuninty starting this may 2021.
 <br/>
-⦿ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.
+⦿ Actively looking for Full-Stack Web Developer/Cloud Computing, Database Engineer full time opportunities starting from May 2021.
 
-- 🔭 Former Senior Software Engineer at Infosys Limited.
 - 🎓 MS in Computer Science at The University of Texas at Arlington.
 - 💻 I really enjoy learning languages and frameworks. Keep Learning, Keep Growing. 
 - 🤝🏼 I’m looking to collaborate on Web Developement projects.

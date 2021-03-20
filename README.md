@@ -7,7 +7,7 @@ Software Engineer learning about software, programming and technologies since la
 
 - 🎓 MS in Computer Science at The University of Texas at Arlington.
 - 💻 I really enjoy learning languages and frameworks. Keep Learning, Keep Growing. 
-- 🤝🏼 I’m looking to collaborate on Web Developement projects.
+- 🤝🏼 I’m looking to collaborate on Web Developement projects and like to contribute to the softwar industry.
 - 💬 Ask me about Web Development... Application Development... Software Development... Databases... Cloud Computing...
 - 😄 Pronouns: He/His.
 

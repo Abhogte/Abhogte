@@ -20,7 +20,7 @@ Software Engineer learning about software, programming and technologies since la
 <br/>
 <br/>
 
-### 📫 How to reach me?
+### 📫 How to reach me? Following are the ways where I am available and you can text me on any of this oscial media platform.
 <a href="https://aditya-bhogte.netlify.app/" target="_blank"><img align="left" alt="Aditya Dattatray Bhogte's Linkdein" width="22px"                          src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/adityabhogte/" target="_blank"><img align="left" alt="Aditya Dattatray Bhogte's Linkdein" width="22px"                          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/Abhogte" target="_blank"><img align="left" alt="Aditya Dattatray Bhogte's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>

@@ -6,6 +6,7 @@ Software Engineer learning about software, programming and technologies since la
 ⦿ Actively looking for Full-Stack Web Developer/Cloud Computing, Database Engineer full time opportunities starting from May 2021.
 
 - 🎓 MS in Computer Science at The University of Texas at Arlington.
+- 🎓 Bachelor's in Infromation Technology from Mumbai University. 
 - 💻 I really enjoy learning languages and frameworks. Keep Learning, Keep Growing. 
 - 🤝🏼 I’m looking to collaborate on Web Developement projects and would like to contribute to the software industry.
 - 💬 Ask me about Web Development... Application Development... Software Development... Databases... Cloud Computing...

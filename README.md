@@ -45,6 +45,7 @@ Software Engineer learning about software, programming and technologies since la
  
 ### If you are interested in my work or if you like to collaborate 👯 or just say hello, feel free to contact me.
 ### Check out my Repo for some cool content! Show some ❤️ by starring some of the repositories that you like!
+### Thank YOU
 
 </div>
 
